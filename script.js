@@ -1,1 +1,2 @@
-const mainSection = document.querySelector('main');
+const soulCenter = document.querySelector('main');
+
